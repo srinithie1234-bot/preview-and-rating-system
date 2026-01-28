@@ -1,7 +1,7 @@
 
-import {Connection} from './components/Connection'
-import {Navbar} from './components/Navbar'
-import {Footer} from './components/Footer'
+import {Connection} from './Components/Connection'
+import {Navbar} from './Components/Navbar'
+import {Footer} from './Components/Footer'
 function App() {
 
 
